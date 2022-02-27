@@ -1,0 +1,19 @@
+
+form{
+    color: blue;
+    
+}
+.for_imput{
+    font-size: 1.9rem;
+    margin-bottom: .4em;
+    padding: .8em  1em;
+    outline: none;
+    border: none;
+    border: 1px solid: beige;
+}
+.for_imput--message{
+    resize: none;
+    padding: 1.8em 1em;
+    margin-bottom: .5em;
+
+}
